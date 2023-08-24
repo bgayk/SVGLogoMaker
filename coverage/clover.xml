@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1692846819370" clover="3.2.0">
-  <project timestamp="1692846819370" name="All files">
+<coverage generated="1692847866541" clover="3.2.0">
+  <project timestamp="1692847866541" name="All files">
     <metrics statements="45" coveredstatements="20" conditionals="9" coveredconditionals="3" methods="17" coveredmethods="11" elements="71" coveredelements="34" complexity="0" loc="45" ncloc="45" packages="1" files="1" classes="1"/>
     <file name="shapes.js" path="/Users/gaykw/bootcamp/ModuleChallenge010/SVGLogoMaker/lib/shapes.js">
       <metrics statements="45" coveredstatements="20" conditionals="9" coveredconditionals="3" methods="17" coveredmethods="11"/>
