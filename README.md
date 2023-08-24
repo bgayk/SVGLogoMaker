@@ -8,6 +8,8 @@
 
    GitHub Project Address: https://github.com/bgayk/SVGLogoMaker
  
+   Video Demo: https://drive.google.com/file/d/16byE-5pavQfBZ6npWyZAbn7ERkD9Wuiz/view
+ 
   ## Table of Contents 
 
   * [Installation](#installation) 
